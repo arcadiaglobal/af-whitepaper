@@ -15,6 +15,7 @@ We are open to any improvemnts in the presentation and spirit of the whitepaper,
 | Doc | File link |
 | ---  | --- |
 | AF Whitepaper English full version | [English-Full.md](/English-Full.md) |
+| AF Libro Blanco Espanol GPT | [Español-Completo-GPT.md](/Español-Completo-GPT.md)
 
 > [!TIP]
 > Don't worry if you are unfamiliar with Github or Markdown, that is not going to prevent you from participating. Reach to us if you need any help: [//linktr.ee/arcadiaglobal](https://linktr.ee/arcadiaglobal).
